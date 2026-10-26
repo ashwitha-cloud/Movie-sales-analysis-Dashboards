@@ -136,6 +136,6 @@ Business Analytics
 Interactive Report Design
 Data Storytelling
 👩‍💻 Author
-Vyshnavi Divi
+Ashwitha manda
 
 Aspiring Data Analyst | Power BI | SQL | Python | EDA | Data Visualization
